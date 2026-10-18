@@ -82,5 +82,8 @@ DSA-Practice/
 ```
 
 ## 💻 Daily Practice Goals
-Author ** Abhijit Ganesh kakade **
+
+## 👨‍💻 About Me
+Abhijit Ganesh Kakade
+
 -
